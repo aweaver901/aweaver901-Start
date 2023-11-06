@@ -6,7 +6,7 @@
 public class Vehicle {
     int currentSpeed;
     String make;
-    String model;
+    String model; 
 
     int accelerate(){
         currentSpeed = currentSpeed + 5;
